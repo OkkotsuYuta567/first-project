@@ -1,0 +1,14 @@
+MDK-ARM/test/
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.lnp
+*.sct
+*.uvguix.*
+*.uvoptx
+*.scvd
